@@ -1,14 +1,33 @@
+ 
  header{
-    background-color: #286adb;
+    background-color: rgb(21, 124, 242);
     text-align: center;
     height: 500px;
+  }
+
+  .contenuto1{
+    border-style: groove;
+    border: 5px;
+    border-color: red;
   }
 
   main{
     background-color: rgb(179, 187, 195);
     text-align: center;
-    height: 1000px;
+    height: 2000px;
 
+  }
+
+  article{
+    background-color: bisque;
+    text-align: center;
+    height: 400px;
+  }
+
+  nav{
+    background-color: rgb(243, 248, 246);
+    text-align: center;
+    height: 500px;
   }
 
   footer{
