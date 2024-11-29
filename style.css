@@ -6,26 +6,52 @@
   }
 
   .contenuto1{
-    border-style: groove;
-    border: 5px;
-    border-color: red;
+    background-color: blue;
+    height: 70px;
+  }
+  .contenuto2{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    margin-left: 530px;
   }
 
   main{
     background-color: rgb(179, 187, 195);
     text-align: center;
-    height: 2000px;
+    height: 2500px;
 
+  }
+
+  .flex-container{
+    display: flex;
+    background-color: brown;
+    width: 750px;
+    height: 500px;
+    margin-left: 805px;
+    align-items: flex-start;
   }
 
   article{
     background-color: bisque;
     text-align: center;
-    height: 400px;
+    height: 500px;
+  }
+
+  .contenuto4{
+    background-color: black;
+    width: 700px;
+    height: 500px;
   }
 
   nav{
     background-color: rgb(243, 248, 246);
+    text-align: center;
+    height: 500px;
+  }
+
+  section{
+    background-color: chartreuse;
     text-align: center;
     height: 500px;
   }
