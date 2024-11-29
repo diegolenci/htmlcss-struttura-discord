@@ -1,0 +1,19 @@
+ header{
+    background-color: #286adb;
+    text-align: center;
+    height: 500px;
+  }
+
+  main{
+    background-color: rgb(179, 187, 195);
+    text-align: center;
+    height: 1000px;
+
+  }
+
+  footer{
+    background-color: rgb(71, 67, 67);
+    text-align: center;
+    height: 500px;
+  }
+  
